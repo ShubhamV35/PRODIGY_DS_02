@@ -6,7 +6,7 @@
 
 Performing data cleaning and exploratory data analysis (EDA) involves several key steps:
 
-Data Collection: Gather the dataset you want to analyze, such as the Titanic dataset.
+Data Collection: Gather the dataset you want to analyze, such as the netflix dataset.
 
 Data Cleaning:
 
